@@ -5,6 +5,6 @@
 - 📫 How to reach me ...
 
 <!---
-Manzil-student/Manzil-student is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+T4ler is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
